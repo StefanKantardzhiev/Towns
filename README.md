@@ -1,5 +1,6 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise
+Code for the Git and GitHub Exercise!
+[Alt text](Screenshot_12.png)
 # Roles
 
 • stefan-softuni-editor1 takes the role "Editor"
