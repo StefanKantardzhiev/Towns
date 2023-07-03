@@ -24,7 +24,6 @@ function deleteTown() {
 		$('#result').text(townName + " not found.");
 }
 
-<<<<<<< HEAD
 
 function shuffleTowns() {
 	let towns = $('#towns option').toArray();
@@ -40,11 +39,10 @@ function shuffleTowns() {
 			array[j] = oldElement;
 		}
 	}
-=======
+}
 function addTown() {
 	let townName = $('#townNameForAdd').val();
 	$('#townNameForAdd').val('');
 	$('#towns').append($('<option>').text(townName));
 	$('#result').text(townName + " added.");
->>>>>>> 233efeb47afa1a9ed32f0a22ec2f8d0dd27c812b
 }
