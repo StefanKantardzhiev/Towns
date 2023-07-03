@@ -11,7 +11,6 @@ body {
 article {
 	background: #CCC;
 	width: 180px;
-	padding: 10px;
 	margin: 10px;
 	display: inline-block;
 	vertical-align: top;
@@ -55,6 +54,7 @@ article>button:hover {
 button#btnDelete {
 	background: red;
 }
+
 #result {
 	display: none;
 	width: 50%;
@@ -63,5 +63,4 @@ button#btnDelete {
 	background: #DDD;
 	border-radius: 5px;
 	border: 1px solid #777;
-	}
-	
+}
